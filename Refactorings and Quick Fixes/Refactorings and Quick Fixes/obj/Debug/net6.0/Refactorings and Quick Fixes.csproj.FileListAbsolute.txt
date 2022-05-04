@@ -1,5 +1,0 @@
-/Users/anna.morozyuk/RiderProjects/Refactorings and Quick Fixes/Refactorings and Quick Fixes/obj/Debug/net6.0/Refactorings and Quick Fixes.csproj.AssemblyReference.cache
-/Users/anna.morozyuk/RiderProjects/Refactorings and Quick Fixes/Refactorings and Quick Fixes/obj/Debug/net6.0/Refactorings and Quick Fixes.GeneratedMSBuildEditorConfig.editorconfig
-/Users/anna.morozyuk/RiderProjects/Refactorings and Quick Fixes/Refactorings and Quick Fixes/obj/Debug/net6.0/Refactorings and Quick Fixes.AssemblyInfoInputs.cache
-/Users/anna.morozyuk/RiderProjects/Refactorings and Quick Fixes/Refactorings and Quick Fixes/obj/Debug/net6.0/Refactorings and Quick Fixes.AssemblyInfo.cs
-/Users/anna.morozyuk/RiderProjects/Refactorings and Quick Fixes/Refactorings and Quick Fixes/obj/Debug/net6.0/Refactorings and Quick Fixes.csproj.CoreCompileInputs.cache
